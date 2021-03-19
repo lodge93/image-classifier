@@ -25,7 +25,7 @@ setup(
     install_requires=[
         'matplotlib==3.1.2',
         'numpy==1.18.1',
-        'Pillow==6.2.2',
+        'Pillow==8.1.1',
         'torch==1.3.1',
         'torchvision==0.4.2',
     ]
