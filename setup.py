@@ -26,7 +26,7 @@ setup(
         'matplotlib==3.1.2',
         'numpy==1.18.1',
         'Pillow==6.2.2',
-        'torch==1.3.1',
+        'torch==1.13.1',
         'torchvision==0.4.2',
     ]
 )
